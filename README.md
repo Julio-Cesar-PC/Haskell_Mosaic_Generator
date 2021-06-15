@@ -6,7 +6,7 @@ Então foi muito dificil pensar em uma função que gere um mosaico com tamanhos
 tamanhos dos quadrados estáticos. E para deixar um pouco mais colorido eu fiz um gerador de cores pseudo-aleatórios usando uma função LCG (Linear congruential generator).
 Bom foi isso que eu consegui fazer e talvez eu revisite esse código para fazer alguns upgrades...
 
-## -----------------------------------------------Mosaicos-----------------------------------------------
+## --------------------------------------Mosaicos--------------------------------------
 
 ### Quadro 1
 ![img](/exemplo1.svg)
