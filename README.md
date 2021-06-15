@@ -10,7 +10,9 @@ Bom foi isso que eu consegui fazer, e talvez eu revisite esse código algum dia 
 
 ## Links
 https://www.youtube.com/watch?v=Y-hQn4KQA70&t=380s
+
 https://www.youtube.com/watch?v=C82JyCmtKWg
+
 https://github.com/hogesonline/svg_play
 
 ## --------------------------------------Mosaicos--------------------------------------
