@@ -8,6 +8,10 @@ Então, foi muito dificil pensar em uma função, que gere um mosaico, com taman
 tamanhos dos quadrados estáticos. E para deixar um pouco mais colorido, eu fiz um gerador de cores pseudo-aleatórios, usando uma função LCG (Linear congruential generator).
 Bom foi isso que eu consegui fazer, e talvez eu revisite esse código algum dia para fazer alguns upgrades...
 
+## Como usar
+
+Edite os parâmetros w, h, w_tela, h_tela, seed do jeito que quiser e o programa ira gerar uma imagem a partir deles. Além disso pode usar a paleta de cores que quiser ou até mesmo editar os parâmetros dentro da função lcg para gerar uma paleta diferente
+
 ## Links
 https://www.youtube.com/watch?v=Y-hQn4KQA70&t=380s
 
